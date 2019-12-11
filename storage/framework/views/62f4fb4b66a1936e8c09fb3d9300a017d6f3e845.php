@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\User\Desktop\invoke\resume\resources\views/index2.blade.php ENDPATH**/ ?>
